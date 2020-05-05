@@ -1,1 +1,12 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skillz
+
+Below is a _list_ of my **techy skiilz:**
+
+## Programming
+- Ruby
+- Go
+- Python
+
+## Collaboration
+- GitHub
+- Got
